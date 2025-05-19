@@ -13,4 +13,4 @@ Weather+ is a simple, responsive web app that allows users to check real-time we
 
 ## Developer Manual
 
-See the [docs/developer-manual.md](./docs/developer-manual.md) file for setup and technical documentation.
+See the Developer Manual file for setup and technical documentation.
