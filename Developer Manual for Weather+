@@ -1,0 +1,37 @@
+# Developer Manual for Weather+
+
+## Prerequisites
+
+Before you begin, ensure the following tools are installed on your machine:
+
+1. **Node.js** (v16 or later)  
+   [Download and install Node.js](https://nodejs.org/)
+
+2. **Git**  
+   [Download and install Git](https://git-scm.com/)
+
+3. **Visual Studio Code (VS Code)**  
+   [Download and install VS Code](https://code.visualstudio.com/)
+
+4. **Insomnia** (Optional, for API testing)  
+   [Download and install Insomnia](https://insomnia.rest/)
+
+---
+
+## Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Final-Project/weather-plus.git
+cd weather-plus
+
+2. Install Node Dependencies
+npm install
+
+3. Set Up Environment Variables
+Create a .env file in the root directory:
+
+4. Add the following to your .env file: 
+touch .env
+
+5. Run the Application Locally and then Start your development server
